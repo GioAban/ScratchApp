@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0; i < 6; i++){
 
             Log.d("This is Array",String .valueOf(anArray[i]));
-
+123
         }
 
 
